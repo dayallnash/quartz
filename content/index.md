@@ -1,8 +1,8 @@
 ---
-title: Dale's Digital Garden
+title: 🪴 Dale's Digital Garden
 ---
 
-# I'm not sure what this actually will be
+# I'm not sure what this will actually be
 
 But I'm going to go ahead and work on it anyway. 
 

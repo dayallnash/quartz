@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "en-GB",
     baseUrl: "dale.engineer",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -71,6 +71,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.FolderPage(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
