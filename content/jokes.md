@@ -1,3 +1,7 @@
+---
+title: Jokes
+---
+
 Whoever invented knock-knock jokes should get a Nobel prize.
 
 I tested a frog's DNA yesterday. He was part Irish, part British, and a tad Pole.
