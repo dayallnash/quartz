@@ -1,4 +1,6 @@
-# Olympics
+——-
+title: Olympics
+——-
 
 Yesterday, I was off sick from work. Among napping and shielding my eyes from light sensitivity, I’ve been snatching glimpses of the BBC Olympics coverage where I can.
 
