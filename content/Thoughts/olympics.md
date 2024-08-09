@@ -4,7 +4,7 @@ title: Olympics
 
 Yesterday, I was off sick from work. Among napping and shielding my eyes from light sensitivity, I’ve been snatching glimpses of the BBC Olympics coverage where I can.
 
-The thing that strikes me so much about the Olympics is how every moment is so enthralling. There are stories everywhere to sink into. From refugee athletes who have fled their home country due to war or persecution, to former world champions recovering from injury to recover former glory. There are so many stories playing out on this stage. 
+The thing that strikes me so much about the Olympics is how every moment is so enthralling. There are stories everywhere to sink into. From refugee athletes who have fled their home country due to war or persecution, to former world champions recovering from injury to reassert former glory. There are so many stories playing out on this stage. 
 
 All of these stories are of course bronzed in incredible sporting achievement. Only today I have witnessed two world records being broken. Not to mention an uncountable amount of personal and season best records accomplished.
 
