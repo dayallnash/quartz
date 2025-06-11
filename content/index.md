@@ -1,14 +1,10 @@
 ---
-title: 🪴 Dale's Digital Garden
+title: 🪴 Dale Nash
 ---
 
-# I'm not sure what this will actually be
+# Hi!
 
-But I'm going to go ahead and work on it anyway. 
-
-I think the first step is to just keep writing. Writing words. Writing code. Writing whatever I can think of.
-
-It needs to be organised in a good way, which [Quartz](https://quartz.jzhao.xyz/) will let me do nicely. I'm following the [digital garden](https://jzhao.xyz/posts/networked-thought) principles. I sow the seeds by writing, and then I tend to it to let it grow by organising everything properly. In the end, I should have a [second brain](https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/) which I can refer to - leaving my actual brain leaner; able to work on problems creatively instead of juggling life anxieties and work stresses.
+I'm Dale, a DevOps Engineer based in Plymouth, United Kingdom. In a previous life I was a web developer, and before that a software tester. I'm currently working somewhere cool, an AI startup, using AWS & GCP. I spend a lot of time thinking about Kubernetes and, most recently, AI.
 
 # Technicals
 
