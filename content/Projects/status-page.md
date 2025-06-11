@@ -1,6 +1,5 @@
 ---
 title: Status Page
-
 ---
 
 # My First Attempt at Building with AI Agents
@@ -53,7 +52,7 @@ However, once I specified exactly what I wanted for the replacement, the model r
 
 For the final piece, I wanted an admin backend that would let me interact with these new APIs through a web interface. I asked for an index page with links to forms for each operation, styled to match the frontend design language, with the links appearing as buttons containing relevant icons or emojis.
 
-The model absolutely nailed this request. It created a clean admin interface with HTTP Basic authentication, intuitive navigation, and forms that perfectly matched the visual style of the public status page. The attention to detail was impressive... it even chose appropriate emojis for each function and organized everything logically.
+The model absolutely nailed this request. It created a clean admin interface with HTTP Basic authentication, intuitive navigation, and forms that perfectly matched the visual style of the public status page. The attention to detail was impressive... it even chose appropriate emojis for each function and organised everything logically.
 
 ## Four Hours
 
