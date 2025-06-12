@@ -62,6 +62,8 @@ The experience felt like working with a brilliant but unpredictable collaborator
 
 What struck me most was how the codebase evolved through this back-and-forth process. Each iteration built meaningfully on the previous version, and the AI generally maintained consistency with earlier architectural decisions. When I asked for changes, it usually preserved the existing structure while adding the new functionality cleanly.
 
+![Status Page index](status-page-index.png "Status Page Index")
+
 ## Looking Forward
 
 The foundation is solid enough that I'm planning to open source the codebase and possibly offer a hosted version for users who don't want to deploy it themselves. I still want to migrate from MySQL to either PostgreSQL or Redis, to upgrade the authentication system, and to add features like Slack integration and incident notifications. But for my first experiment with AI agents, getting a working alternative to expensive SaaS tools in one afternoon feels like a genuine win.
